@@ -1,8 +1,7 @@
+                  Pick-Tube Vision System
 硬件环境：配套机械臂:越疆nova5机械手臂、相机海康MV-CU060-10GC 、海康扫码器、pc、Modbus TCP 、IO  IP：锁控正常。
-软件环境：Python ,opencv ,modbus
+软件环境：Python
           Dobotstudio 
-          # 🚀 Pick-Tube Vision System
-
 基于工业相机的视觉定位与机械臂抓取系统，用于试管阵列的自动识别与定位。
  项目简介
 
