@@ -135,12 +135,5 @@ python vision_robot_controller.py
 * [ ] UI界面优化
 * [ ] 抓取路径规划
 
----
-
-## 📄 License
-
-MIT License
-
----
 
 
