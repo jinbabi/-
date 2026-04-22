@@ -1,0 +1,54 @@
+{
+    "12*8试管盒(1ml)": {
+        "min_radius": 37,
+        "max_radius": 39,
+        "height_value": 26,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "dp": 1.3,
+        "minDist": 60,
+        "param1": 47,
+        "param2": 17,
+        "template_path": "template_12x8(1ml).jpg",
+        "match_threshold": 0.2
+    },
+    "12*8试管盒(2ml)": {
+        "min_radius": 37,
+        "max_radius": 39,
+        "height_value": 103,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "dp": 1.3,
+        "minDist": 52,
+        "param1": 50,
+        "param2": 23,
+        "template_path": "template_12x8(2ml).jpg",
+        "match_threshold": 0.2
+    },
+    "8*6试管盒": {
+        "min_radius": 37,
+        "max_radius": 40,
+        "height_value": 108,
+        "offset_x": 0.0,
+        "offset_y": 0.0,
+        "dp": 1.3,
+        "minDist": 52,
+        "param1": 50,
+        "param2": 24,
+        "template_path": "template_8x6.jpg",
+        "match_threshold": 0.3
+    },
+    "4*4试管盒": {
+        "min_radius": 45,
+        "max_radius": 50,
+        "height_value": 160,
+        "offset_x": -3.9,
+        "offset_y": -2.3,
+        "dp": 1.5,
+        "minDist": 60,
+        "param1": 60,
+        "param2": 28,
+        "template_path": "template_4x4.jpg",
+        "match_threshold": 0.38
+    }
+}

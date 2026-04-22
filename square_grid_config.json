@@ -1,0 +1,38 @@
+{
+    "8*6空盒": {
+        "rows": 8,
+        "cols": 6,
+        "bottom_left_x": -675.6915,
+        "bottom_left_y":-209.0013,
+        "distance": 13.5,
+        "offset_x": 0.0,
+        "offset_y": 0.0
+    },
+    "12*8空盒": {
+        "rows": 12,
+        "cols": 8,
+        "bottom_left_x": 100,
+        "bottom_left_y": 100,
+        "distance": 5.0,
+        "offset_x": 1,
+        "offset_y": 1
+    },
+    "6*4空盒": {
+        "rows": 4,
+        "cols": 8,
+        "bottom_left_x": 90.0,
+        "bottom_left_y": 90.0,
+        "distance": 35.0,
+        "offset_x": -2.0,
+        "offset_y": 1.2
+    },
+    "4*4空盒": {
+        "rows": 3,
+        "cols": 10,
+        "bottom_left_x": 80.0,
+        "bottom_left_y": 80.0,
+        "distance": 40.0,
+        "offset_x": 3.5,
+        "offset_y": -2.5
+    }
+}

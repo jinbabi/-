@@ -1,0 +1,482 @@
+{
+  "1A": {
+    "original_pixel": [
+      1676,
+      692
+    ],
+    "world_coords_mm": [
+      307.1466,
+      -328.4836
+    ]
+  },
+  "1B": {
+    "original_pixel": [
+      1557,
+      678
+    ],
+    "world_coords_mm": [
+      295.1292,
+      -327.7747
+    ]
+  },
+  "1C": {
+    "original_pixel": [
+      1438,
+      661
+    ],
+    "world_coords_mm": [
+      283.005,
+      -326.7595
+    ]
+  },
+  "1D": {
+    "original_pixel": [
+      1319,
+      643
+    ],
+    "world_coords_mm": [
+      270.7869,
+      -325.6361
+    ]
+  },
+  "1E": {
+    "original_pixel": [
+      1199,
+      629
+    ],
+    "world_coords_mm": [
+      258.4032,
+      -324.9149
+    ]
+  },
+  "1F": {
+    "original_pixel": [
+      1081,
+      610
+    ],
+    "world_coords_mm": [
+      246.1039,
+      -323.6694
+    ]
+  },
+  "2A": {
+    "original_pixel": [
+      1661,
+      815
+    ],
+    "world_coords_mm": [
+      306.4842,
+      -340.8586
+    ]
+  },
+  "2B": {
+    "original_pixel": [
+      1543,
+      797
+    ],
+    "world_coords_mm": [
+      294.516,
+      -339.7855
+    ]
+  },
+  "2C": {
+    "original_pixel": [
+      1422,
+      782
+    ],
+    "world_coords_mm": [
+      282.178,
+      -339.0255
+    ]
+  },
+  "2D": {
+    "original_pixel": [
+      1304,
+      763
+    ],
+    "world_coords_mm": [
+      270.0296,
+      -337.8369
+    ]
+  },
+  "2E": {
+    "original_pixel": [
+      1187,
+      752
+    ],
+    "world_coords_mm": [
+      257.9483,
+      -337.4453
+    ]
+  },
+  "2F": {
+    "original_pixel": [
+      1067,
+      735
+    ],
+    "world_coords_mm": [
+      245.4302,
+      -336.4584
+    ]
+  },
+  "3A": {
+    "original_pixel": [
+      1644,
+      930
+    ],
+    "world_coords_mm": [
+      305.5644,
+      -352.4901
+    ]
+  },
+  "3B": {
+    "original_pixel": [
+      1528,
+      916
+    ],
+    "world_coords_mm": [
+      293.7997,
+      -351.8459
+    ]
+  },
+  "3C": {
+    "original_pixel": [
+      1405,
+      902
+    ],
+    "world_coords_mm": [
+      281.2395,
+      -351.2433
+    ]
+  },
+  "3D": {
+    "original_pixel": [
+      1294,
+      884
+    ],
+    "world_coords_mm": [
+      269.7884,
+      -350.1514
+    ]
+  },
+  "3E": {
+    "original_pixel": [
+      1168,
+      865
+    ],
+    "world_coords_mm": [
+      256.7055,
+      -349.0488
+    ]
+  },
+  "3F": {
+    "original_pixel": [
+      1052,
+      852
+    ],
+    "world_coords_mm": [
+      244.6,
+      -348.4851
+    ]
+  },
+  "4A": {
+    "original_pixel": [
+      1631,
+      1052
+    ],
+    "world_coords_mm": [
+      305.0907,
+      -364.8411
+    ]
+  },
+  "4B": {
+    "original_pixel": [
+      1507,
+      1034
+    ],
+    "world_coords_mm": [
+      292.4668,
+      -363.8912
+    ]
+  },
+  "4C": {
+    "original_pixel": [
+      1393,
+      1020
+    ],
+    "world_coords_mm": [
+      280.794,
+      -363.27
+    ]
+  },
+  "4D": {
+    "original_pixel": [
+      1278,
+      1001
+    ],
+    "world_coords_mm": [
+      268.9044,
+      -362.1428
+    ]
+  },
+  "4E": {
+    "original_pixel": [
+      1154,
+      992
+    ],
+    "world_coords_mm": [
+      256.0644,
+      -362.0914
+    ]
+  },
+  "4F": {
+    "original_pixel": [
+      1030,
+      974
+    ],
+    "world_coords_mm": [
+      243.068,
+      -361.1171
+    ]
+  },
+  "5A": {
+    "original_pixel": [
+      1614,
+      1170
+    ],
+    "world_coords_mm": [
+      304.1855,
+      -376.8621
+    ]
+  },
+  "5B": {
+    "original_pixel": [
+      1499,
+      1158
+    ],
+    "world_coords_mm": [
+      292.4873,
+      -376.4973
+    ]
+  },
+  "5C": {
+    "original_pixel": [
+      1375,
+      1139
+    ],
+    "world_coords_mm": [
+      279.7407,
+      -375.4844
+    ]
+  },
+  "5D": {
+    "original_pixel": [
+      1258,
+      1129
+    ],
+    "world_coords_mm": [
+      267.6768,
+      -375.331
+    ]
+  },
+  "5E": {
+    "original_pixel": [
+      1138,
+      1111
+    ],
+    "world_coords_mm": [
+      255.1625,
+      -374.379
+    ]
+  },
+  "5F": {
+    "original_pixel": [
+      1021,
+      1097
+    ],
+    "world_coords_mm": [
+      242.8946,
+      -373.8091
+    ]
+  },
+  "6A": {
+    "original_pixel": [
+      1597,
+      1288
+    ],
+    "world_coords_mm": [
+      303.2769,
+      -388.9282
+    ]
+  },
+  "6B": {
+    "original_pixel": [
+      1483,
+      1274
+    ],
+    "world_coords_mm": [
+      291.6416,
+      -388.3943
+    ]
+  },
+  "6C": {
+    "original_pixel": [
+      1369,
+      1261
+    ],
+    "world_coords_mm": [
+      279.9314,
+      -387.9587
+    ]
+  },
+  "6D": {
+    "original_pixel": [
+      1244,
+      1246
+    ],
+    "world_coords_mm": [
+      266.9917,
+      -387.4011
+    ]
+  },
+  "6E": {
+    "original_pixel": [
+      1121,
+      1237
+    ],
+    "world_coords_mm": [
+      254.1978,
+      -387.4404
+    ]
+  },
+  "6F": {
+    "original_pixel": [
+      1007,
+      1216
+    ],
+    "world_coords_mm": [
+      242.1723,
+      -386.1712
+    ]
+  },
+  "7A": {
+    "original_pixel": [
+      1579,
+      1404
+    ],
+    "world_coords_mm": [
+      302.2501,
+      -400.8447
+    ]
+  },
+  "7B": {
+    "original_pixel": [
+      1467,
+      1395
+    ],
+    "world_coords_mm": [
+      290.8263,
+      -400.8451
+    ]
+  },
+  "7C": {
+    "original_pixel": [
+      1349,
+      1383
+    ],
+    "world_coords_mm": [
+      278.6874,
+      -400.5876
+    ]
+  },
+  "7D": {
+    "original_pixel": [
+      1234,
+      1367
+    ],
+    "world_coords_mm": [
+      266.7434,
+      -399.8926
+    ]
+  },
+  "7E": {
+    "original_pixel": [
+      1114,
+      1352
+    ],
+    "world_coords_mm": [
+      254.2008,
+      -399.337
+    ]
+  },
+  "7F": {
+    "original_pixel": [
+      993,
+      1333
+    ],
+    "world_coords_mm": [
+      241.4348,
+      -398.3716
+    ]
+  },
+  "8A": {
+    "original_pixel": [
+      1569,
+      1522
+    ],
+    "world_coords_mm": [
+      302.0434,
+      -412.9418
+    ]
+  },
+  "8B": {
+    "original_pixel": [
+      1455,
+      1512
+    ],
+    "world_coords_mm": [
+      290.3891,
+      -412.8993
+    ]
+  },
+  "8C": {
+    "original_pixel": [
+      1335,
+      1497
+    ],
+    "world_coords_mm": [
+      278.0023,
+      -412.3947
+    ]
+  },
+  "8D": {
+    "original_pixel": [
+      1216,
+      1486
+    ],
+    "world_coords_mm": [
+      265.6531,
+      -412.2901
+    ]
+  },
+  "8E": {
+    "original_pixel": [
+      1098,
+      1471
+    ],
+    "world_coords_mm": [
+      253.2905,
+      -411.7622
+    ]
+  },
+  "8F": {
+    "original_pixel": [
+      974,
+      1461
+    ],
+    "world_coords_mm": [
+      240.2375,
+      -411.8017
+    ]
+  }
+}
